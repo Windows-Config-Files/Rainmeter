@@ -5,5 +5,5 @@ Includes files for:
   * Rainmeter
   * Winstep Nexus Dock
 
-Other things to do when you get windows up:
+Other things to do when you get Windows up:
  * Install Files app (better File Explorer)
