@@ -2,5 +2,5 @@
 Making Windows look better since 2021, because Linux ricing made me realize how disgusting Windows looks
 
 Includes files for:
-  * Rainmeter, 
+  * Rainmeter
   * Winstep Nexus Dock
